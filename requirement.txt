@@ -8,5 +8,3 @@ xgboost==1.7.5
 lightgbm==4.1.0
 imbalanced-learn==0.10.1
 ta==0.10.2
-# Uncomment the next line if you want CatBoost support
-# catboost==1.2.2
