@@ -1,0 +1,12 @@
+streamlit
+scikit-learn
+pandas
+numpy
+matplotlib
+statsmodels
+xgboost
+lightgbm
+imbalanced-learn
+ta
+# Note: CatBoost is optional. If you want it, uncomment the next line.
+# catboost
